@@ -3,8 +3,8 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
   {
     id: 1,
-    title: "SaaS Landing Page",
-    description: "A beautiful landing page app using React and Tailwind.",
+    title: "PitchZone",
+    description: "A platform to share and discover innovative project ideas",
     image: "/projects/project1.png",
     tags: ["React", "TailwindCSS", "Supabase"],
     demoUrl: "#",
@@ -12,9 +12,8 @@ const projects = [
   },
   {
     id: 2,
-    title: "Orbit Analytics Dashboard",
-    description:
-      "Interactive analytics dashboard with data visualization and filtering capabilities.",
+    title: "PrepWise",
+    description: "Prepare for interviews with the help of AI",
     image: "/projects/project2.png",
     tags: ["TypeScript", "D3.js", "Next.js"],
     demoUrl: "#",
@@ -22,9 +21,9 @@ const projects = [
   },
   {
     id: 3,
-    title: "E-commerce Platform",
+    title: "Skin Diseases Detection",
     description:
-      "Full-featured e-commerce platform with user authentication and payment processing.",
+      "A web app that uses machine learning to detect skin diseases from images",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Stripe"],
     demoUrl: "#",
