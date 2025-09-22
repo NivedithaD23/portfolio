@@ -29,6 +29,16 @@ const projects = [
     demoUrl: "#",
     githubUrl: "#",
   },
+  // {
+  //   id: 4,
+  //   title: "TravelMate",
+  //   description:
+  //     "A travel planning app that helps users organize their trips and itineraries",
+  //   image: "/projects/project4.png",
+  //   tags: ["React", "RESTful API", "JS"],
+  //   demoUrl: "#",
+  //   githubUrl: "#",
+  // },
 ];
 
 export const ProjectsSection = () => {
